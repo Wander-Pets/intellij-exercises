@@ -30,5 +30,7 @@ public class HelloWolrd {
         {
             System.out.println("They are not the same!");
         }
+
+        System.out.println("Hello World this is the new version");
     }
 }
